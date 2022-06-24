@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "ys aque",
   "version": "1.0.2",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "aque whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/souravkl11/aque-md.git"
   },
   "keywords": [
     "whatsapp",
